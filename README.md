@@ -1,4 +1,4 @@
-# toDo
+# toDo website
 Todo website for writing daily tasks
 
 # options
