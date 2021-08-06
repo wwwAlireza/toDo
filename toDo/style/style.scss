@@ -108,7 +108,7 @@ $main-animation-duration : 0.8s;
     margin-top: 0.4rem;
     padding: 10px;
     box-sizing: border-box;
-    overflow-y: scroll;
+    overflow-y: auto;
     .task-container{
         width: 100%;
         border-radius: $radius;
