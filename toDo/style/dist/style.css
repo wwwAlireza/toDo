@@ -101,7 +101,7 @@ body {
   margin-top: 0.4rem;
   padding: 10px;
   box-sizing: border-box;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 .content .task-container {
   width: 100%;
